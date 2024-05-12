@@ -1,5 +1,5 @@
-import abi from './NFT.json'
+import abi from "./NFT.json";
 
-export const NFTabi = abi.abi
+export const NFTabi = abi.abi;
 
-export const contractAddress = '0xa10F8b110627FDb21874Dff269cedD0Ef47B8257'
+export const contractAddress = "0x5D34DF4Fe2833799D4d59f56FDDe757a63787c8B";

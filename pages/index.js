@@ -1,6 +1,6 @@
-import Head from 'next/head'
+import Head from "next/head";
 
-import Homescreen from '../components/Homescreen'
+import Homescreen from "../components/Homescreen";
 
 export default function Home() {
   return (
@@ -13,5 +13,5 @@ export default function Home() {
 
       <Homescreen />
     </div>
-  )
+  );
 }
